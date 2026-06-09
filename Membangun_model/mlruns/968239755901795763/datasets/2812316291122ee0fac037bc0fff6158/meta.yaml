@@ -1,0 +1,13 @@
+digest: bfd823bc
+name: dataset
+profile: '{"num_rows": 712, "num_elements": 6408}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Pclass", "required": true},
+  {"type": "long", "name": "Sex", "required": true}, {"type": "double", "name": "Age",
+  "required": true}, {"type": "long", "name": "SibSp", "required": true}, {"type":
+  "long", "name": "Parch", "required": true}, {"type": "double", "name": "Fare", "required":
+  true}, {"type": "long", "name": "Embarked", "required": true}, {"type": "double",
+  "name": "FamilySize", "required": true}, {"type": "long", "name": "IsAlone", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "Milin Azura", "mlflow.source.name": "modelling.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

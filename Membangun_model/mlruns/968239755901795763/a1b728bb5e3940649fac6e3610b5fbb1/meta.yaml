@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/968239755901795763/a1b728bb5e3940649fac6e3610b5fbb1/artifacts
+end_time: 1780985532251
+entry_point_name: ''
+experiment_id: '968239755901795763'
+lifecycle_stage: active
+run_id: a1b728bb5e3940649fac6e3610b5fbb1
+run_name: RandomForest-Autolog
+run_uuid: a1b728bb5e3940649fac6e3610b5fbb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780985526585
+status: 3
+tags: []
+user_id: Milin Azura
